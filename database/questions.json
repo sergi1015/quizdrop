@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "61546933d16e7ce4f46a2898"
+  },
+  "question": "What are stored inside a blockchain?",
+  "options": [
+    "Transaction",
+    "Address Pairs",
+    "Price",
+    "Tokens"
+  ],
+  "time": 5,
+  "usedCount": 0
+}]
